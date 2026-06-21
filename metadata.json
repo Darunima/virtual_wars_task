@@ -1,0 +1,6 @@
+{
+  "name": "VR-1 AI",
+  "description": "Next-Generation Carbon Footprint Intelligence Platform featuring AI coaching, interactive simulators, digital twins, and virtual forests.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
